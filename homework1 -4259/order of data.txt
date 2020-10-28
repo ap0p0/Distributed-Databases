@@ -1,0 +1,13 @@
+Order which tables get data from first to last:
+
+1. Kadministrator
+2. Galerija
+3. Jazik
+4. Email
+5. Galerija_slika
+6. Galerija_opis
+7. email_grupa
+8. mailing
+9. email_poraka
+10. Knovost
+11. kdokument
